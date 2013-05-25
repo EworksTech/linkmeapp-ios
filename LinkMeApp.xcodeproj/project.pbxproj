@@ -25,6 +25,8 @@
 		DB3055D1174228970007D463 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DB3055A6174228960007D463 /* Foundation.framework */; };
 		DB3055D9174228970007D463 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = DB3055D7174228970007D463 /* InfoPlist.strings */; };
 		DB3055DC174228970007D463 /* LinkMeAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = DB3055DB174228970007D463 /* LinkMeAppTests.m */; };
+		DB3055F117422D230007D463 /* LinkmeApp_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = DB3055F017422D230007D463 /* LinkmeApp_icon.png */; };
+		DB3055F317422F760007D463 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = DB3055F217422F760007D463 /* Default.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,6 +66,8 @@
 		DB3055D8174228970007D463 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		DB3055DA174228970007D463 /* LinkMeAppTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LinkMeAppTests.h; sourceTree = "<group>"; };
 		DB3055DB174228970007D463 /* LinkMeAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LinkMeAppTests.m; sourceTree = "<group>"; };
+		DB3055F017422D230007D463 /* LinkmeApp_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = LinkmeApp_icon.png; path = ../LinkmeApp_icon.png; sourceTree = "<group>"; };
+		DB3055F217422F760007D463 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Default.png; path = ../Default.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,6 +144,8 @@
 		DB3055AB174228960007D463 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				DB3055F017422D230007D463 /* LinkmeApp_icon.png */,
+				DB3055F217422F760007D463 /* Default.png */,
 				DB3055AC174228960007D463 /* LinkMeApp-Info.plist */,
 				DB3055AD174228960007D463 /* InfoPlist.strings */,
 				DB3055B0174228960007D463 /* main.m */,
@@ -246,6 +252,8 @@
 				DB3055B9174228960007D463 /* Default@2x.png in Resources */,
 				DB3055BB174228960007D463 /* Default-568h@2x.png in Resources */,
 				DB3055C7174228960007D463 /* MainStoryboard.storyboard in Resources */,
+				DB3055F117422D230007D463 /* LinkmeApp_icon.png in Resources */,
+				DB3055F317422F760007D463 /* Default.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
