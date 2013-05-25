@@ -3,7 +3,7 @@
 //  LinkMeApp
 //
 //  Created by Cesar Schneider on 5/14/13.
-//  Copyright (c) 2013 Eworks Labs. All rights reserved.
+//  Copyright (c) 2013 Eworks Technologies. All rights reserved.
 //
 
 #import "DataViewController.h"

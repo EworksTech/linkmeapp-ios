@@ -222,7 +222,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0460;
-				ORGANIZATIONNAME = "Eworks Labs";
+				ORGANIZATIONNAME = "Eworks Technologies";
 			};
 			buildConfigurationList = DB30559C174228960007D463 /* Build configuration list for PBXProject "LinkMeApp" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -473,6 +473,7 @@
 				DB3055E1174228970007D463 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DB3055E2174228970007D463 /* Build configuration list for PBXNativeTarget "LinkMeAppTests" */ = {
 			isa = XCConfigurationList;
@@ -481,6 +482,7 @@
 				DB3055E4174228970007D463 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
